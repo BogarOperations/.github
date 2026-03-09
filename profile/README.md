@@ -45,7 +45,7 @@ Core service for parsing and indexing construction documents into a searchable k
 
 ---
 
-### 🔧 4. [bogar-services](https://github.com/BogarOperations/bogar-services) — Backend Orchestration / API Layer  
+### 🔧 4. [bogar-services](https://github.com/BogarOperations/bogar-service-api) — Backend Orchestration / API Layer  
 Orchestrator and API gateway for the BoGar ecosystem.  
 
 **Features:**  
